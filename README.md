@@ -2,6 +2,7 @@
 A repository of many cheatsheets links
 
 ## C
++ [Code Editors](#code)
 + [CSS](#css)
 
 ## G
@@ -12,7 +13,7 @@ A repository of many cheatsheets links
 
 
 
-
+[Vim Cheat Sheet](https://s3.amazonaws.com/downloads.vimtraining.com/Notes+from+vimtraining.com.pdf) - Vim Training (PDF)
 
 ### CSS
 + [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)

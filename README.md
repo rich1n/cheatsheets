@@ -8,6 +8,9 @@ A repository of many cheatsheets links
 ## G
 + [Git](#git)
 
+## H
++ [HTML](#html)
+
 ## J
 + [JavaScript](#javascript)
 
@@ -25,6 +28,9 @@ A repository of many cheatsheets links
 + [GitHub Git Cheat Sheet Spanish](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf) - GitHub (PDF)
 + [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
 
+### HTML
++ [Simple HTML Guide](http://www.simplehtmlguide.com/cheatsheet.php)
++ [Standdord University HTML](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
 
 ### JavaScript
 + [JavaScript Cheat Sheet](https://htmlcheatsheet.com/js/#)

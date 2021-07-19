@@ -15,8 +15,11 @@ A repository of many cheatsheets links
 + [JavaScript](#javascript)
 
 
-
+### Code Editors
 [Vim Cheat Sheet](https://s3.amazonaws.com/downloads.vimtraining.com/Notes+from+vimtraining.com.pdf) - Vim Training (PDF)
+[Vim CM University](https://www.cs.cmu.edu/~15131/f17/topics/vim/vim-cheatsheet.pdf)
+[Vim DevHints](https://devhints.io/vim)
+[Vim Rtorr](https://vim.rtorr.com/)
 
 ### CSS
 + [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)

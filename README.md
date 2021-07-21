@@ -1,8 +1,11 @@
 # cheatsheets
 A repository of many cheatsheets links
 
+## Bash
++ [Bash](#bash)
+
 ## C
-+ [Code Editors](#code)
++ [Code Editors](#code-editors)
 + [CSS](#css)
 
 ## G
@@ -15,11 +18,13 @@ A repository of many cheatsheets links
 + [JavaScript](#javascript)
 
 
+### Bash
++ [Bash](https://quickref.me/bash)
+
 ### Code Editors
-[Vim Cheat Sheet](https://s3.amazonaws.com/downloads.vimtraining.com/Notes+from+vimtraining.com.pdf) - Vim Training (PDF)
-[Vim CM University](https://www.cs.cmu.edu/~15131/f17/topics/vim/vim-cheatsheet.pdf)
-[Vim DevHints](https://devhints.io/vim)
-[Vim Rtorr](https://vim.rtorr.com/)
++ [Vim DevHints](https://devhints.io/vim) - Vim Training (PDF)
++ [quickref.me](https://quickref.me/vim) - Vim Training (PDF)
++ [Markdown quickref.me](https://quickref.me/markdown) - Vim Training (PDF)
 
 ### CSS
 + [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
